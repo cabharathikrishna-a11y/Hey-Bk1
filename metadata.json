@@ -1,0 +1,6 @@
+{
+  "name": "Hey Bk",
+  "description": "Personal journaling app with books, timeline, calendar, media, clustered map, rich editor, contact tagging, prompts, and local backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
